@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I'm a frontend developer. I'm from Argentina, living in Buenos Aires. 
+I'm an Argentinian frontend developer.
 
 
-## What i'm up to
+## What I'm up to
 
-- 🔭 I’m currently working at Santander Tecnologia.
-- 🌱 I’m currently working with [React JS](https://reactjs.org).
+- 🌱 I’m currently working at Santander Tecnologia, coding with [React JS](https://reactjs.org).
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
