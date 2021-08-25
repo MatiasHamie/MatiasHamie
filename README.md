@@ -1,9 +1,6 @@
-![matiashamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiashamie&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiashamie&layout=compact&theme=highcontrast)](https://github.com/matiashamie/github-readme-stats)
-
 ### Hi there 👋
 
-My name is Noelia Donato and I'm a frontend developer. I'm from Argentina, living in Buenos Aires. 
+My name is Matias Hamie and I'm a frontend developer. I'm from Argentina, living in Buenos Aires. 
 
 
 ## What i'm up to
