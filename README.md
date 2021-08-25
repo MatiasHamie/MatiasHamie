@@ -1,2 +1,49 @@
 ![matiashamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiashamie&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiashamie&layout=compact&theme=highcontrast)](https://github.com/matiashamie/github-readme-stats)
+
+### Hi there 👋
+
+My name is Noelia Donato and I'm a frontend developer. I'm from Argentina, living in Buenos Aires. 
+
+
+## What i'm up to
+
+- 🔭 I’m currently working at Santander Tecnologia.
+- 🌱 I’m currently working with [React](https://reactjs.org).
+
+## Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/matiashamie/matiashamie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiashamie&hide=java,html,tex&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27&langs_count=3" />
+</a>
+<a href="https://github.com/nsdonato/nsdonato">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nsdonato&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27&theme=tokyonight" alt="Matias's GitHub Stats" />
+</a>
+
+
+[1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[2.2]: https://raw.githubusercontent.com/nsdonato/nsdonato/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://github.com/matiashamie
+[2]: https://www.linkedin.com/in/mhamie
+
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
