@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Matias Hamie and I'm a frontend developer. I'm from Argentina, living in Buenos Aires. 
+I'm a frontend developer. I'm from Argentina, living in Buenos Aires. 
 
 
 ## What i'm up to
