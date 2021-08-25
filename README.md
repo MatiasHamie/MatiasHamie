@@ -6,7 +6,7 @@ My name is Matias Hamie and I'm a frontend developer. I'm from Argentina, living
 ## What i'm up to
 
 - 🔭 I’m currently working at Santander Tecnologia.
-- 🌱 I’m currently working with [React](https://reactjs.org).
+- 🌱 I’m currently working with [React JS](https://reactjs.org).
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -17,10 +17,10 @@ My name is Matias Hamie and I'm a frontend developer. I'm from Argentina, living
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/matiashamie/matiashamie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiashamie&hide=java,html,tex&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiashamie&hide=java,html,tex&title_color=70a5fd&text_color=fff&icon_color=bf91f3&bg_color=1a1b27&langs_count=3" />
 </a>
 <a href="https://github.com/matiashamie/matiashamie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nsdonato&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27&theme=tokyonight" alt="Matias's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matiashamie&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=fff&icon_color=bf91f3&bg_color=1a1b27&theme=tokyonight" alt="Matias's GitHub Stats" />
 </a>
 
 
