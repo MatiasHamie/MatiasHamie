@@ -19,7 +19,7 @@ My name is Matias Hamie and I'm a frontend developer. I'm from Argentina, living
 <a href="https://github.com/matiashamie/matiashamie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiashamie&hide=java,html,tex&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27&langs_count=3" />
 </a>
-<a href="https://github.com/nsdonato/nsdonato">
+<a href="https://github.com/matiashamie/matiashamie">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nsdonato&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27&theme=tokyonight" alt="Matias's GitHub Stats" />
 </a>
 
@@ -29,7 +29,7 @@ My name is Matias Hamie and I'm a frontend developer. I'm from Argentina, living
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[2.2]: https://raw.githubusercontent.com/nsdonato/nsdonato/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/matiashamie/matiashamie/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
