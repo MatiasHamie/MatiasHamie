@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm an Argentinian frontend developer. I've been programming since 2019.
+I'm an Argentinian frontend developer. I've been programming since early 2019.
 
 
 ## What I'm up to
 
-- 🌱 I’m currently coding with [Vue JS](https://vuejs.org).
+- 🌱 I’m currently coding with [React JS](https://vuejs.org) and [Next JS](https://nextjs.org/).
 - 🙌 Typescript is a big YES for me.
 
 
@@ -15,6 +15,8 @@ I'm an Argentinian frontend developer. I've been programming since 2019.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
 
 ## &#x1f4c8; GitHub Stats
 
