@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm an Argentinian frontend developer. I've been programming since early 2019.
+I'm an Argentinian frontend developer living in Spain I've been programming since early 2019.
 
 
 ## What I'm up to
 
-- 🌱 I’m currently coding with [React JS](https://vuejs.org) and [Next JS](https://nextjs.org/).
+- 🌱 I’m currently coding with [React JS](https://react.org) and [Next JS](https://nextjs.org/).
 - 🙌 Typescript is a big YES for me.
 
 
