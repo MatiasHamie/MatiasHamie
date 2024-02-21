@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Argentinian frontend developer living in Spain I've been programming since early 2019.
+I'm an Argentinian frontend developer living in Spain. I've been programming since early 2019.
 
 
 ## What I'm up to
