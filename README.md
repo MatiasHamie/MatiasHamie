@@ -16,9 +16,10 @@ I'm an Argentinian frontend developer living in Spain. I've been programming sin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://simpleicons.org/icons/nextdotjs.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/vitest.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/vercel.svg"></code>
 
-
-## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/matiashamie/matiashamie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiashamie&hide=java,html,tex&title_color=70a5fd&text_color=fff&icon_color=bf91f3&bg_color=1a1b27&langs_count=5" />
